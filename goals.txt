@@ -1,3 +1,5 @@
+This is a test! by fmflake
+
 One of my best lectures (for a different class) had the students create a version of Dark Sky’s temperature prediction methods (http://journal.darkskyapp.com/2012/how-dark-sky-calculates-temperature/).
 The code would showcase pulling pages from the internet, parsing it, and simple modeling (we’d skip the Voronoi stuff).
 I think that should demonstrate the benefits of a general purpose language like Python and code in general vs Excel, etc.
